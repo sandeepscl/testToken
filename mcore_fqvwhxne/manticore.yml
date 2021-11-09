@@ -1,0 +1,6 @@
+cli:
+  argv:
+  - ABCToken.sol
+  contract: SafeMath
+  coverage: ABCToken.txt
+  skip_reverts: true
